@@ -1,0 +1,7 @@
+# Raw training time for trainning sizes
+#size 	time (elapsed)
+0.005	0.33	
+0.1	1.01	
+0.14	1.5	
+0.3	2.5	
+0.4	5.0	

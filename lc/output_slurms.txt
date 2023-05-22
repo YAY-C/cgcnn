@@ -1,0 +1,61 @@
+______________________
+slurm-7705996_0.out
+______________________
+
+Training model with train ration = 0.005
+Model Details : \n
+	--batch-size 16 --n-conv 5 --n-h 1 --train-ratio 0.005 --val-ratio 0.1 --test-ratio 0.1 --workers 4 --epochs 150 --print-freq 1 ../../data_test/QMOF > cgcnn_train-0.005.out
+/home/calvino/ai4cheistry_project/cgcnn/lc/0.005/../../main.py:159: UserWarning: Found cifdata folder at ../../data_test/QMOF/cifdata. Will read in .jsons as-available
+  warnings.warn('Found cifdata folder at ' +
+
+______________________
+slurm-7705996_1.out
+______________________
+
+Training model with train ration = 0.14
+Model Details : \n
+	--batch-size 16 --n-conv 5 --n-h 1 --train-ratio 0.14 --val-ratio 0.1 --test-ratio 0.1 --workers 4 --epochs 150 --print-freq 1 ../../data_test/QMOF > cgcnn_train-0.14.out
+/home/calvino/ai4cheistry_project/cgcnn/lc/0.14/../../main.py:159: UserWarning: Found cifdata folder at ../../data_test/QMOF/cifdata. Will read in .jsons as-available
+  warnings.warn('Found cifdata folder at ' +
+
+______________________
+slurm-7705996_2.out
+______________________
+
+Training model with train ration = 0.4
+Model Details : \n
+	--batch-size 16 --n-conv 5 --n-h 1 --train-ratio 0.4 --val-ratio 0.1 --test-ratio 0.1 --workers 4 --epochs 150 --print-freq 1 ../../data_test/QMOF > cgcnn_train-0.4.out
+/home/calvino/ai4cheistry_project/cgcnn/lc/0.4/../../main.py:159: UserWarning: Found cifdata folder at ../../data_test/QMOF/cifdata. Will read in .jsons as-available
+  warnings.warn('Found cifdata folder at ' +
+
+______________________
+slurm-7705996_3.out
+______________________
+
+Training model with train ration = 0.1
+Model Details : \n
+	--batch-size 16 --n-conv 5 --n-h 1 --train-ratio 0.1 --val-ratio 0.1 --test-ratio 0.1 --workers 4 --epochs 150 --print-freq 1 ../../data_test/QMOF > cgcnn_train-0.1.out
+/home/calvino/ai4cheistry_project/cgcnn/lc/0.1/../../main.py:159: UserWarning: Found cifdata folder at ../../data_test/QMOF/cifdata. Will read in .jsons as-available
+  warnings.warn('Found cifdata folder at ' +
+
+______________________
+slurm-7705996_4.out
+______________________
+
+Training model with train ration = 0.3
+Model Details : \n
+	--batch-size 16 --n-conv 5 --n-h 1 --train-ratio 0.3 --val-ratio 0.1 --test-ratio 0.1 --workers 4 --epochs 150 --print-freq 1 ../../data_test/QMOF > cgcnn_train-0.3.out
+/home/calvino/ai4cheistry_project/cgcnn/lc/0.3/../../main.py:159: UserWarning: Found cifdata folder at ../../data_test/QMOF/cifdata. Will read in .jsons as-available
+  warnings.warn('Found cifdata folder at ' +
+
+______________________
+slurm-7705996_5.out
+______________________
+
+Training model with train ration = 0.8
+Model Details : \n
+	--batch-size 16 --n-conv 5 --n-h 1 --train-ratio 0.8 --val-ratio 0.1 --test-ratio 0.1 --workers 4 --epochs 150 --print-freq 1 ../../data_test/QMOF > cgcnn_train-0.8.out
+/home/calvino/ai4cheistry_project/cgcnn/lc/0.8/../../main.py:159: UserWarning: Found cifdata folder at ../../data_test/QMOF/cifdata. Will read in .jsons as-available
+  warnings.warn('Found cifdata folder at ' +
+slurmstepd: error: *** JOB 7705996 ON node25 CANCELLED AT 2023-05-17T11:30:22 ***
+
