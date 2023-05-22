@@ -83,6 +83,8 @@ parser.add_argument('--disable-save-torch', action='store_true',
                     help='Do not save CIF PyTorch data as .json files')
 parser.add_argument('--clean-torch', action='store_true',
                     help='Clean CIF PyTorch data .json files')
+parser.add_argument('--random_seed', type=int, default=42,
+                    help='Random seed for shuffling the dataset')
 
 args = parser.parse_args(sys.argv[1:])
 
@@ -99,7 +101,7 @@ def main():
 
     # load data
     dataset = CIFData(*args.data_options,
-                      disable_save_torch=args.disable_save_torch)
+                      disable_save_torch=args.disable_save_torch, random_seed=args.seed)
     collate_fn = collate_pool
     train_loader, val_loader, test_loader = get_train_val_test_loader(
         dataset=dataset,
