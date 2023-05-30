@@ -1,0 +1,5 @@
+Training model with train ration = 0.8
+Model Details : \n
+	--batch-size 16 --n-conv 5 --n-h 1 --train-ratio 0.8 --val-ratio 0.1 --test-ratio 0.1 --workers 4 --epochs 150 --print-freq 1 /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF > 6cgcnn_train-0.8.out
+/home/calvino/ai4cheistry_project/cgcnn/cgcnn/main.py:161: UserWarning: Found cifdata folder at /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF/cifdata. Will read in .jsons as-available
+  warnings.warn('Found cifdata folder at ' +

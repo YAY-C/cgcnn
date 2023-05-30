@@ -59,3 +59,263 @@ Model Details : \n
   warnings.warn('Found cifdata folder at ' +
 slurmstepd: error: *** JOB 7705996 ON node25 CANCELLED AT 2023-05-17T11:30:22 ***
 
+______________________
+slurm-7807360_0.out
+______________________
+
+Training model with train ration = 0.005
+Model Details : \n
+	--batch-size 16 --n-conv 5 --n-h 1 --train-ratio 0.005 --val-ratio 0.1 --test-ratio 0.1 --workers 4 --epochs 150 --print-freq 1 /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF > 666cgcnn_train-0.005.out
+/home/calvino/ai4cheistry_project/cgcnn/cgcnn/main.py:161: UserWarning: Found cifdata folder at /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF/cifdata. Will read in .jsons as-available
+  warnings.warn('Found cifdata folder at ' +
+
+______________________
+slurm-7807569_0.out
+______________________
+
+Training model with train ration = 0.005
+Model Details : \n
+	--batch-size 16 --n-conv 5 --n-h 1 --train-ratio 0.005 --val-ratio 0.1 --test-ratio 0.1 --workers 4 --epochs 150 --print-freq 1 /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF > 666cgcnn_train-0.005.out
+slurmstepd: error: *** JOB 7807569 ON node35 CANCELLED AT 2023-05-23T17:49:06 ***
+
+______________________
+slurm-7807739_0.out
+______________________
+
+Training model with train ration = 0.005
+Model Details : \n
+	--batch-size 16 --n-conv 5 --n-h 1 --train-ratio 0.005 --val-ratio 0.1 --test-ratio 0.1 --workers 4 --epochs 150 --print-freq 1 /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF > 666cgcnn_train-0.005.out
+/home/calvino/ai4cheistry_project/cgcnn/cgcnn/main.py:161: UserWarning: Found cifdata folder at /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF/cifdata. Will read in .jsons as-available
+  warnings.warn('Found cifdata folder at ' +
+
+______________________
+slurm-7807739_1.out
+______________________
+
+Training model with train ration = 0.14
+Model Details : \n
+	--batch-size 16 --n-conv 5 --n-h 1 --train-ratio 0.14 --val-ratio 0.1 --test-ratio 0.1 --workers 4 --epochs 150 --print-freq 1 /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF > 666cgcnn_train-0.14.out
+/home/calvino/ai4cheistry_project/cgcnn/cgcnn/main.py:161: UserWarning: Found cifdata folder at /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF/cifdata. Will read in .jsons as-available
+  warnings.warn('Found cifdata folder at ' +
+
+______________________
+slurm-7807739_2.out
+______________________
+
+Training model with train ration = 0.4
+Model Details : \n
+	--batch-size 16 --n-conv 5 --n-h 1 --train-ratio 0.4 --val-ratio 0.1 --test-ratio 0.1 --workers 4 --epochs 150 --print-freq 1 /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF > 666cgcnn_train-0.4.out
+/home/calvino/ai4cheistry_project/cgcnn/cgcnn/main.py:161: UserWarning: Found cifdata folder at /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF/cifdata. Will read in .jsons as-available
+  warnings.warn('Found cifdata folder at ' +
+
+______________________
+slurm-7807739_3.out
+______________________
+
+Training model with train ration = 0.1
+Model Details : \n
+	--batch-size 16 --n-conv 5 --n-h 1 --train-ratio 0.1 --val-ratio 0.1 --test-ratio 0.1 --workers 4 --epochs 150 --print-freq 1 /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF > 666cgcnn_train-0.1.out
+/home/calvino/ai4cheistry_project/cgcnn/cgcnn/main.py:161: UserWarning: Found cifdata folder at /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF/cifdata. Will read in .jsons as-available
+  warnings.warn('Found cifdata folder at ' +
+
+______________________
+slurm-7807739_4.out
+______________________
+
+Training model with train ration = 0.3
+Model Details : \n
+	--batch-size 16 --n-conv 5 --n-h 1 --train-ratio 0.3 --val-ratio 0.1 --test-ratio 0.1 --workers 4 --epochs 150 --print-freq 1 /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF > 666cgcnn_train-0.3.out
+/home/calvino/ai4cheistry_project/cgcnn/cgcnn/main.py:161: UserWarning: Found cifdata folder at /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF/cifdata. Will read in .jsons as-available
+  warnings.warn('Found cifdata folder at ' +
+
+______________________
+slurm-7807739_5.out
+______________________
+
+Training model with train ration = 0.8
+Model Details : \n
+	--batch-size 16 --n-conv 5 --n-h 1 --train-ratio 0.8 --val-ratio 0.1 --test-ratio 0.1 --workers 4 --epochs 150 --print-freq 1 /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF > 666cgcnn_train-0.8.out
+/home/calvino/ai4cheistry_project/cgcnn/cgcnn/main.py:161: UserWarning: Found cifdata folder at /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF/cifdata. Will read in .jsons as-available
+  warnings.warn('Found cifdata folder at ' +
+
+______________________
+slurm-7808067_0.out
+______________________
+
+Training model with train ration = 0.005
+Model Details : \n
+	--batch-size 16 --n-conv 5 --n-h 1 --train-ratio 0.005 --val-ratio 0.1 --test-ratio 0.1 --workers 4 --epochs 150 --print-freq 1 /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF > 6cgcnn_train-0.005.out
+/home/calvino/ai4cheistry_project/cgcnn/cgcnn/main.py:161: UserWarning: Found cifdata folder at /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF/cifdata. Will read in .jsons as-available
+  warnings.warn('Found cifdata folder at ' +
+
+______________________
+slurm-7808067_1.out
+______________________
+
+Training model with train ration = 0.14
+Model Details : \n
+	--batch-size 16 --n-conv 5 --n-h 1 --train-ratio 0.14 --val-ratio 0.1 --test-ratio 0.1 --workers 4 --epochs 150 --print-freq 1 /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF > 6cgcnn_train-0.14.out
+/home/calvino/ai4cheistry_project/cgcnn/cgcnn/main.py:161: UserWarning: Found cifdata folder at /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF/cifdata. Will read in .jsons as-available
+  warnings.warn('Found cifdata folder at ' +
+
+______________________
+slurm-7808067_2.out
+______________________
+
+Training model with train ration = 0.4
+Model Details : \n
+	--batch-size 16 --n-conv 5 --n-h 1 --train-ratio 0.4 --val-ratio 0.1 --test-ratio 0.1 --workers 4 --epochs 150 --print-freq 1 /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF > 6cgcnn_train-0.4.out
+/home/calvino/ai4cheistry_project/cgcnn/cgcnn/main.py:161: UserWarning: Found cifdata folder at /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF/cifdata. Will read in .jsons as-available
+  warnings.warn('Found cifdata folder at ' +
+
+______________________
+slurm-7808067_3.out
+______________________
+
+Training model with train ration = 0.1
+Model Details : \n
+	--batch-size 16 --n-conv 5 --n-h 1 --train-ratio 0.1 --val-ratio 0.1 --test-ratio 0.1 --workers 4 --epochs 150 --print-freq 1 /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF > 6cgcnn_train-0.1.out
+/home/calvino/ai4cheistry_project/cgcnn/cgcnn/main.py:161: UserWarning: Found cifdata folder at /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF/cifdata. Will read in .jsons as-available
+  warnings.warn('Found cifdata folder at ' +
+
+______________________
+slurm-7808067_4.out
+______________________
+
+Training model with train ration = 0.3
+Model Details : \n
+	--batch-size 16 --n-conv 5 --n-h 1 --train-ratio 0.3 --val-ratio 0.1 --test-ratio 0.1 --workers 4 --epochs 150 --print-freq 1 /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF > 6cgcnn_train-0.3.out
+/home/calvino/ai4cheistry_project/cgcnn/cgcnn/main.py:161: UserWarning: Found cifdata folder at /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF/cifdata. Will read in .jsons as-available
+  warnings.warn('Found cifdata folder at ' +
+
+______________________
+slurm-7808067_5.out
+______________________
+
+Training model with train ration = 0.8
+Model Details : \n
+	--batch-size 16 --n-conv 5 --n-h 1 --train-ratio 0.8 --val-ratio 0.1 --test-ratio 0.1 --workers 4 --epochs 150 --print-freq 1 /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF > 6cgcnn_train-0.8.out
+/home/calvino/ai4cheistry_project/cgcnn/cgcnn/main.py:161: UserWarning: Found cifdata folder at /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF/cifdata. Will read in .jsons as-available
+  warnings.warn('Found cifdata folder at ' +
+slurmstepd: error: *** JOB 7808067 ON node30 CANCELLED AT 2023-05-25T15:05:16 ***
+
+______________________
+slurm-7808068_0.out
+______________________
+
+Training model with train ration = 0.005
+Model Details : \n
+	--batch-size 16 --n-conv 5 --n-h 1 --train-ratio 0.005 --val-ratio 0.1 --test-ratio 0.1 --workers 4 --epochs 150 --print-freq 1 /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF > 12cgcnn_train-0.005.out
+/home/calvino/ai4cheistry_project/cgcnn/cgcnn/main.py:161: UserWarning: Found cifdata folder at /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF/cifdata. Will read in .jsons as-available
+  warnings.warn('Found cifdata folder at ' +
+
+______________________
+slurm-7808068_1.out
+______________________
+
+Training model with train ration = 0.14
+Model Details : \n
+	--batch-size 16 --n-conv 5 --n-h 1 --train-ratio 0.14 --val-ratio 0.1 --test-ratio 0.1 --workers 4 --epochs 150 --print-freq 1 /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF > 12cgcnn_train-0.14.out
+/home/calvino/ai4cheistry_project/cgcnn/cgcnn/main.py:161: UserWarning: Found cifdata folder at /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF/cifdata. Will read in .jsons as-available
+  warnings.warn('Found cifdata folder at ' +
+
+______________________
+slurm-7808068_2.out
+______________________
+
+Training model with train ration = 0.4
+Model Details : \n
+	--batch-size 16 --n-conv 5 --n-h 1 --train-ratio 0.4 --val-ratio 0.1 --test-ratio 0.1 --workers 4 --epochs 150 --print-freq 1 /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF > 12cgcnn_train-0.4.out
+/home/calvino/ai4cheistry_project/cgcnn/cgcnn/main.py:161: UserWarning: Found cifdata folder at /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF/cifdata. Will read in .jsons as-available
+  warnings.warn('Found cifdata folder at ' +
+
+______________________
+slurm-7808068_3.out
+______________________
+
+Training model with train ration = 0.1
+Model Details : \n
+	--batch-size 16 --n-conv 5 --n-h 1 --train-ratio 0.1 --val-ratio 0.1 --test-ratio 0.1 --workers 4 --epochs 150 --print-freq 1 /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF > 12cgcnn_train-0.1.out
+/home/calvino/ai4cheistry_project/cgcnn/cgcnn/main.py:161: UserWarning: Found cifdata folder at /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF/cifdata. Will read in .jsons as-available
+  warnings.warn('Found cifdata folder at ' +
+
+______________________
+slurm-7808068_4.out
+______________________
+
+Training model with train ration = 0.3
+Model Details : \n
+	--batch-size 16 --n-conv 5 --n-h 1 --train-ratio 0.3 --val-ratio 0.1 --test-ratio 0.1 --workers 4 --epochs 150 --print-freq 1 /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF > 12cgcnn_train-0.3.out
+/home/calvino/ai4cheistry_project/cgcnn/cgcnn/main.py:161: UserWarning: Found cifdata folder at /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF/cifdata. Will read in .jsons as-available
+  warnings.warn('Found cifdata folder at ' +
+
+______________________
+slurm-7808068_5.out
+______________________
+
+Training model with train ration = 0.8
+Model Details : \n
+	--batch-size 16 --n-conv 5 --n-h 1 --train-ratio 0.8 --val-ratio 0.1 --test-ratio 0.1 --workers 4 --epochs 150 --print-freq 1 /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF > 12cgcnn_train-0.8.out
+/home/calvino/ai4cheistry_project/cgcnn/cgcnn/main.py:161: UserWarning: Found cifdata folder at /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF/cifdata. Will read in .jsons as-available
+  warnings.warn('Found cifdata folder at ' +
+
+______________________
+slurm-7808069_0.out
+______________________
+
+Training model with train ration = 0.005
+Model Details : \n
+	--batch-size 16 --n-conv 5 --n-h 1 --train-ratio 0.005 --val-ratio 0.1 --test-ratio 0.1 --workers 4 --epochs 150 --print-freq 1 /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF > 121cgcnn_train-0.005.out
+/home/calvino/ai4cheistry_project/cgcnn/cgcnn/main.py:161: UserWarning: Found cifdata folder at /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF/cifdata. Will read in .jsons as-available
+  warnings.warn('Found cifdata folder at ' +
+
+______________________
+slurm-7808069_1.out
+______________________
+
+Training model with train ration = 0.14
+Model Details : \n
+	--batch-size 16 --n-conv 5 --n-h 1 --train-ratio 0.14 --val-ratio 0.1 --test-ratio 0.1 --workers 4 --epochs 150 --print-freq 1 /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF > 121cgcnn_train-0.14.out
+/home/calvino/ai4cheistry_project/cgcnn/cgcnn/main.py:161: UserWarning: Found cifdata folder at /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF/cifdata. Will read in .jsons as-available
+  warnings.warn('Found cifdata folder at ' +
+
+______________________
+slurm-7808069_2.out
+______________________
+
+Training model with train ration = 0.4
+Model Details : \n
+	--batch-size 16 --n-conv 5 --n-h 1 --train-ratio 0.4 --val-ratio 0.1 --test-ratio 0.1 --workers 4 --epochs 150 --print-freq 1 /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF > 121cgcnn_train-0.4.out
+/home/calvino/ai4cheistry_project/cgcnn/cgcnn/main.py:161: UserWarning: Found cifdata folder at /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF/cifdata. Will read in .jsons as-available
+  warnings.warn('Found cifdata folder at ' +
+
+______________________
+slurm-7808069_3.out
+______________________
+
+Training model with train ration = 0.1
+Model Details : \n
+	--batch-size 16 --n-conv 5 --n-h 1 --train-ratio 0.1 --val-ratio 0.1 --test-ratio 0.1 --workers 4 --epochs 150 --print-freq 1 /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF > 121cgcnn_train-0.1.out
+/home/calvino/ai4cheistry_project/cgcnn/cgcnn/main.py:161: UserWarning: Found cifdata folder at /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF/cifdata. Will read in .jsons as-available
+  warnings.warn('Found cifdata folder at ' +
+
+______________________
+slurm-7808069_4.out
+______________________
+
+Training model with train ration = 0.3
+Model Details : \n
+	--batch-size 16 --n-conv 5 --n-h 1 --train-ratio 0.3 --val-ratio 0.1 --test-ratio 0.1 --workers 4 --epochs 150 --print-freq 1 /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF > 121cgcnn_train-0.3.out
+/home/calvino/ai4cheistry_project/cgcnn/cgcnn/main.py:161: UserWarning: Found cifdata folder at /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF/cifdata. Will read in .jsons as-available
+  warnings.warn('Found cifdata folder at ' +
+
+______________________
+slurm-7808069_5.out
+______________________
+
+Training model with train ration = 0.8
+Model Details : \n
+	--batch-size 16 --n-conv 5 --n-h 1 --train-ratio 0.8 --val-ratio 0.1 --test-ratio 0.1 --workers 4 --epochs 150 --print-freq 1 /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF > 121cgcnn_train-0.8.out
+/home/calvino/ai4cheistry_project/cgcnn/cgcnn/main.py:161: UserWarning: Found cifdata folder at /home/calvino/ai4cheistry_project/cgcnn/cgcnn/lc/../../data_test/QMOF/cifdata. Will read in .jsons as-available
+  warnings.warn('Found cifdata folder at ' +
+
