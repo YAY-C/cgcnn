@@ -101,7 +101,7 @@ def main():
 
     # load data
     dataset = CIFData(*args.data_options,
-                      disable_save_torch=args.disable_save_torch, random_seed=args.seed)
+                      disable_save_torch=args.disable_save_torch, random_seed=args.random_seed)
     collate_fn = collate_pool
     train_loader, val_loader, test_loader = get_train_val_test_loader(
         dataset=dataset,
